@@ -10,6 +10,7 @@ class HelloCSharp
     static void Main(string[] args)
     {
         Console.WriteLine("Hello C#");
+        Console.WriteLine("This is my first program");
     }
 }
 
